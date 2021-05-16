@@ -81,6 +81,7 @@ nav ul li a{
 .arrow-icons img {
     width: 40px;
     margin-right: 30px;
+    cursor: pointer;
 }
 
 .feature-img {
